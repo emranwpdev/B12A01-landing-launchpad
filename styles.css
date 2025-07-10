@@ -13,6 +13,20 @@
     padding: 18px 35px;
     border-radius: 5px;
 }
+
+.section-heading{
+    font-weight: bold;
+    font-size: 35px;
+    color: #252432;
+    margin-bottom: 25px;
+    padding-top: 30px;
+}
+.section-description{
+    font-weight: 300;
+    font-size: 20px;
+    color: #252432;
+    margin-bottom: 25px;
+}
 /* Header style */
 .header{
     background-image: url(Assets/Hero-bg.png);
@@ -52,4 +66,23 @@ nav{
     font-size: 65px;
     padding: 0px 300px 0px 300px ;
     margin-bottom: 30px;
+}
+/* section two */
+.section-two-pic{
+    width: 403px;
+    height: 300px;
+    border-radius: 48px;
+    
+}
+.section-two{
+    display: flex;
+    justify-content: space-between;
+    width: 1140px;
+    height: 328px;
+    margin: 150px 100px 150px 225px;
+    
+   
+}
+.action{
+    width: 350px;
 }
