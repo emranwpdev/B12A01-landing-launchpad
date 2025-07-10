@@ -1,5 +1,55 @@
 *{
     margin: 0px;
     padding: 0px;
-    display: flexbox;
+   
+}
+/* shared style */
+.btn-primary{
+    background-color:#4E47FF;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    border: none;
+    padding: 18px 35px;
+    border-radius: 5px;
+}
+/* Header style */
+.header{
+    background-image: url(Assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1580px;
+    height: 698px;
+    
+
+}
+/* navbar style */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 100px;
+    padding-top: 50px;
+    text-align: center;
+}
+.logo{
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+.l-design{
+    color: #4E47FF;
+}
+.section-title{
+    
+    padding-top: 200px;
+    text-align: center;
+   
+}
+.title{
+    font-weight: bold;
+    font-size: 65px;
+    padding: 0px 300px 0px 300px ;
+    margin-bottom: 30px;
 }
