@@ -161,3 +161,30 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     border-radius: 5px;
 
 }
+
+/* section7 styles */
+.section7{
+    width: 1580px;
+    height: 350px;
+    text-align: center;
+    padding-top: 175px;
+
+}
+
+.section7-description{
+     font-weight: 300;
+    font-size: 20px;
+    color: #252432;
+    margin-top: 25px;
+   
+}
+.section7-items{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 25px;
+    gap: 50px;
+}
+.item{
+    
+}
