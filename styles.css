@@ -87,6 +87,28 @@ nav{
     width: 350px;
 }
 /* section three styles */
+.section3{
+    width: 1140px;
+    height: 306px;
+    background-color:#f4f4fa;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 240px;
+    padding-top: 50px;
+    margin-bottom: 100px;
+}
+.section3-user{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 25px;
+    gap: 120px;
+}
+.user-title{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+}
 
 
 
