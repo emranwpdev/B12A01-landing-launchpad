@@ -86,3 +86,44 @@ nav{
 .action{
     width: 350px;
 }
+/* section three styles */
+
+
+
+/* footer styles */
+footer{
+    display: flex;
+    padding: 130px 230px;
+    gap: 100px;
+    background-color: #f4f4fa;
+}
+.footer-title{
+    font-size: 65px;
+    font-weight: bold;
+    color: #181818;
+    margin-top: 80px;
+}
+.footer-column{
+    width: 50%;
+}
+footer input[type="text"], footer input[type="email"], footer textarea{
+    height: 64px;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    display: block;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+
+}
+.btn-footer{
+     background-color:#4E47FF;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    border: none;
+    padding: 18px 240px;
+    border-radius: 5px;
+
+}
