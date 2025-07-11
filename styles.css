@@ -90,6 +90,40 @@ nav{
 
 
 
+/* section five styles */
+
+.section-five-pic{
+    width: 840px;
+    height: 365px;
+    border-radius: 48px;
+    margin-left: 400px;
+    margin-top: 24px;
+    margin-bottom: 100px;
+    
+}
+.section-fiev{
+    display:flex;
+  justify-content: center;
+    width: 1140px;
+    height: 328px;
+    
+    text-align: center;
+   }
+ .action2{
+    margin-left: 100px;
+    text-align: center;
+    
+ }
+ .section5-heading{
+     font-weight: bold;
+    font-size: 60px;
+    color: #252432;
+    margin-bottom: 25px;
+    padding-top: 30px;
+
+ }   
+   
+
 /* footer styles */
 footer{
     display: flex;
